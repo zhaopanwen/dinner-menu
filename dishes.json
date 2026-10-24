@@ -1,0 +1,98 @@
+[
+  {
+    "id": "d01",
+    "name": "番茄炒蛋",
+    "category": "家常菜",
+    "emoji": "🍅",
+    "tags": ["下饭", "微甜", "10分钟"],
+    "img": "https://images.unsplash.com/photo-1604908554049-1c1fb3bae4d4?w=600&q=80"
+  },
+  {
+    "id": "d02",
+    "name": "红烧肉",
+    "category": "硬菜",
+    "emoji": "🥩",
+    "tags": ["招牌", "耗时"],
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=80"
+  },
+  {
+    "id": "d03",
+    "name": "麻婆豆腐",
+    "category": "家常菜",
+    "emoji": "🌶️",
+    "tags": ["下饭", "微辣"],
+    "img": "https://images.unsplash.com/photo-1582450871972-ab5ca641643d?w=600&q=80"
+  },
+  {
+    "id": "d04",
+    "name": "清蒸鲈鱼",
+    "category": "硬菜",
+    "emoji": "🐟",
+    "tags": ["鲜", "清淡"],
+    "img": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=600&q=80"
+  },
+  {
+    "id": "d05",
+    "name": "凉拌黄瓜",
+    "category": "凉菜",
+    "emoji": "🥒",
+    "tags": ["爽口", "5分钟"],
+    "img": "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?w=600&q=80"
+  },
+  {
+    "id": "d06",
+    "name": "酸辣土豆丝",
+    "category": "家常菜",
+    "emoji": "🥔",
+    "tags": ["爽口", "下饭"],
+    "img": "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?w=600&q=80"
+  },
+  {
+    "id": "d07",
+    "name": "可乐鸡翅",
+    "category": "硬菜",
+    "emoji": "🍗",
+    "tags": ["甜口", "招牌"],
+    "img": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=600&q=80"
+  },
+  {
+    "id": "d08",
+    "name": "蒜蓉西兰花",
+    "category": "素菜",
+    "emoji": "🥦",
+    "tags": ["健康", "清淡"],
+    "img": "https://images.unsplash.com/photo-1572441713132-c542fc4fe6e4?w=600&q=80"
+  },
+  {
+    "id": "d09",
+    "name": "水煮肉片",
+    "category": "硬菜",
+    "emoji": "🍲",
+    "tags": ["重辣", "过瘾"],
+    "img": "https://images.unsplash.com/photo-1552611052-33e04de081de?w=600&q=80"
+  },
+  {
+    "id": "d10",
+    "name": "蛋炒饭",
+    "category": "快手",
+    "emoji": "🍚",
+    "tags": ["10分钟", "剩饭救星"],
+    "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=600&q=80"
+  },
+  {
+    "id": "d11",
+    "name": "皮蛋豆腐",
+    "category": "凉菜",
+    "emoji": "🥚",
+    "tags": ["爽口", "5分钟"],
+    "img": "https://images.unsplash.com/photo-1582450871972-ab5ca641643d?w=600&q=80"
+  },
+  {
+    "id": "d12",
+    "name": "糖醋里脊",
+    "category": "硬菜",
+    "emoji": "🍖",
+    "tags": ["酸甜", "招牌"],
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=80"
+  }
+]
